@@ -1,0 +1,11 @@
+.link{
+    color:rgb(185,22,22);
+    font-size:20;
+    margin:100px 0 100 300;
+    background-color:green;
+}
+body {background-color: White} 
+.link2{
+    color:white;
+    background-color: black;
+    padding: 100px 0 50 0}

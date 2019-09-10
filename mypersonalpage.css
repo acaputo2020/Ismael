@@ -1,0 +1,28 @@
+.titulo1 {color:grey;
+     font-size:24;
+      font-family:arial}
+.titulo2 {color:grey;
+     font-size:20;
+      font-family:arial}
+.titulo3 {color:red;
+     font-size:20;
+      font-family:arial}
+.descripcion {color:grey;
+     font-size:15;
+      font-family:arial}
+      .bloque1 {background-color: rgb(228, 228, 228);
+        width:290px;
+        float:left;
+         text-align: center;
+        display:inline}
+      .bloque2 {background-color:white;
+    width: 1020px;
+     margin:auto;float:right;
+      padding-right: 20px}
+.datos {color:grey;
+     font-size:20;
+      font-family:arial;
+      text-align: left}
+.yoimg {margin-left:20px;
+     margin-top:20px}
+.telefonoimg {margin-left:00px}
